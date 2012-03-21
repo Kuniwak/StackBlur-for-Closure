@@ -8,4 +8,4 @@ StackBlur is fast image blur plugin.
 
 h2. API Reference
 
-Show the "Wiki":https://github.com/OrgaChem/Escape-Codec-Library-for-Closure/wiki/API-Reference .
+Show the "Wiki":https://github.com/OrgaChem/StackBlur-for-Closure/wiki/API-Reference .
