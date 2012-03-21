@@ -1,0 +1,11 @@
+h1. Closure Library 対応の StackBlur
+
+h2. 概要
+
+このスクリプトは "StackBlur":http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html の関数群をClosure Libraryに対応するように書き直したものです。
+
+
+h2. API リファレンス
+
+"Wiki":https://github.com/OrgaChem/StackBlur-for-Closure/wiki/API-%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9(API-Reference-for-Japanese) を参照してください。
+英語版は "こちら":https://github.com/OrgaChem/StackBlur-for-Closure/wiki/API-Reference 。
