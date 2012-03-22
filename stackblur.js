@@ -1,3 +1,6 @@
+// This script licensed under the MIT.
+// http://orgachem.mit-license.org
+
 /*
 StackBlur - a fast almost Gaussian Blur For Canvas
 
